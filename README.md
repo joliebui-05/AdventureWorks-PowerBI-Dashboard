@@ -91,22 +91,20 @@ Provide executives with a centralized dashboard that supports faster, data-drive
 
 ### Business Strategy & Objectives
 
-AdventureWorks' business strategy focuses on achieving sustainable growth through improved visibility into sales performance, product performance, customer behavior, and regional trends.
+### Stakeholder Analysis
 
-This Business Intelligence solution supports that strategy by providing a centralized reporting platform that enables stakeholders to monitor key performance indicators (KPIs), identify business opportunities, and make data-driven decisions.
+The first step of the project was to identify the key stakeholders and understand how the dashboard would support their business decisions. This helped ensure the reporting solution addressed both strategic and operational requirements.
 
-**The dashboard was designed to support the following business objectives:**
+| Stakeholder | Business Need | Decisions Supported |
+|--------------|---------------|---------------------|
+| **Executive Leadership** | Monitor overall business performance and strategic KPIs | Strategic planning, business growth, and investment priorities |
+| **Sales Managers** | Track sales performance across products, regions, and time | Sales target setting, product focus, and promotional planning |
+| **Product Managers** | Evaluate product performance and return trends | Pricing strategy, product improvements, and inventory planning |
+| **Regional Managers** | Compare sales performance across territories | Regional investment decisions and resource allocation |
+| **Marketing Managers** | Analyze customer behavior and product trends | Marketing campaigns, customer targeting, and promotional strategies |
+| **Operations Team** | Monitor order volume and product returns | Inventory planning, supply chain improvements, and quality management |
 
-| Business Objective | How the Dashboard Supports It |
-|--------------------|-------------------------------|
-| **Monitor Sales Performance** | Track revenue, profit, orders, and sales trends over time. |
-| **Improve Product Performance** | Identify high-performing and underperforming products to support pricing, inventory, and product decisions. |
-| **Understand Customer Behavior** | Analyze customer purchasing patterns and revenue contribution to identify valuable customer segments. |
-| **Evaluate Regional Performance** | Compare sales across regions to identify growth opportunities and optimize resource allocation. |
-| **Monitor Product Returns** | Track return rates to identify products that may require further investigation or quality improvements. |
-| **Establish a Single Source of Truth** | Replace fragmented reporting with a centralized, interactive dashboard that delivers consistent business insights. |
-
-> **Business Value:** By transforming raw transactional data into actionable insights, the dashboard enables stakeholders to make faster, more informed decisions that support AdventureWorks' long-term growth objectives.
+> **Outcome:** The dashboard was designed to provide each stakeholder group with relevant KPIs and interactive visualizations, enabling faster and more informed business decisions.
 
 </details>
 
