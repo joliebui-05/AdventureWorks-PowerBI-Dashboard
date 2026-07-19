@@ -89,20 +89,24 @@ Provide executives with a centralized dashboard that supports faster, data-drive
 
 <br>
 
-AdventureWorks' business strategy focuses on driving sustainable growth through better visibility into sales performance, product performance, customer behavior, and regional trends.
+### Business Strategy & Objectives
 
-This Business Intelligence solution supports that strategy by providing a centralized reporting platform that enables stakeholders to monitor key performance indicators (KPIs), identify business opportunities, and make informed decisions based on reliable data.
+AdventureWorks' business strategy focuses on achieving sustainable growth through improved visibility into sales performance, product performance, customer behavior, and regional trends.
 
-Specifically, this project helps AdventureWorks:
+This Business Intelligence solution supports that strategy by providing a centralized reporting platform that enables stakeholders to monitor key performance indicators (KPIs), identify business opportunities, and make data-driven decisions.
 
-- **Monitor sales performance** to evaluate revenue, profit, and order trends over time.
-- **Identify high-performing and underperforming products** to support product portfolio and pricing decisions.
-- **Understand customer purchasing behavior** to better target valuable customer segments and improve marketing strategies.
-- **Evaluate regional sales performance** to identify growth opportunities and allocate resources more effectively.
-- **Analyze product return trends** to identify products that may require further investigation or improvement.
-- **Establish a single source of truth** that replaces fragmented reporting with consistent, interactive business insights.
+**The dashboard was designed to support the following business objectives:**
 
-By transforming raw transactional data into actionable information, this solution enables leadership to make faster, more informed decisions that align with the company's growth objectives.
+| Business Objective | How the Dashboard Supports It |
+|--------------------|-------------------------------|
+| **Monitor Sales Performance** | Track revenue, profit, orders, and sales trends over time. |
+| **Improve Product Performance** | Identify high-performing and underperforming products to support pricing, inventory, and product decisions. |
+| **Understand Customer Behavior** | Analyze customer purchasing patterns and revenue contribution to identify valuable customer segments. |
+| **Evaluate Regional Performance** | Compare sales across regions to identify growth opportunities and optimize resource allocation. |
+| **Monitor Product Returns** | Track return rates to identify products that may require further investigation or quality improvements. |
+| **Establish a Single Source of Truth** | Replace fragmented reporting with a centralized, interactive dashboard that delivers consistent business insights. |
+
+> **Business Value:** By transforming raw transactional data into actionable insights, the dashboard enables stakeholders to make faster, more informed decisions that support AdventureWorks' long-term growth objectives.
 
 </details>
 
