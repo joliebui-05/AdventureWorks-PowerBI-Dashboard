@@ -89,8 +89,6 @@ Provide executives with a centralized dashboard that supports faster, data-drive
 
 <br>
 
-### Business Strategy & Objectives
-
 ### Stakeholder Analysis
 
 The first step of the project was to identify the key stakeholders and understand how the dashboard would support their business decisions. This helped ensure the reporting solution addressed both strategic and operational requirements.
