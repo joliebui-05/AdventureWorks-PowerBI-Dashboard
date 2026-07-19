@@ -10,6 +10,18 @@ It transforms sales data into interactive dashboards that help monitor sales per
 The report combines data modeling, DAX calculations, and data visualization to support business decision-making.
 
 ## 🎯 Business Background
+<br>
+
+<details>
+<summary><strong>1. Business Context</strong></summary>
+
+<br>
+
+AdventureWorks Cycles is a fictional multinational bicycle manufacturer and retailer that sells bicycles, cycling accessories, and apparel across North America, Europe, and the Pacific region.
+
+The company collects sales data, customer information, product details, and return records. As the business grows, management needs a more effective way to monitor performance and make strategic decisions.
+
+</details>
 
 **1. Business Context**
 
