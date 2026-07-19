@@ -323,15 +323,17 @@ Fact_Sales / Fact_Returns
 
 *Figure: Hybrid dimensional model consisting of two fact tables, shared dimensions, and a snowflaked product hierarchy.*
 
+<details>
+
 <br>
 
 <details>
 <summary><strong>1. Company Overview</strong></summary>
+
+<br>
 
 AdventureWorks Cycles is a fictional multinational bicycle manufacturer and retailer that sells bicycles, cycling accessories, and apparel across North America, Europe, and the Pacific region.
 
 The company collects sales data, customer information, product details, and return records. As the business grows, management needs a more effective way to monitor performance and make strategic decisions.
 
 </details>
-
-<br>
