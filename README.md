@@ -18,8 +18,7 @@ AdventureWorks required a centralized reporting solution to monitor business per
 - Which products have the highest return rates?
 - How does customer growth compare to customer value?
 
-</details>
-🛠 Project Workflow
+## 🛠 Project Workflow
 
 <br>
 
