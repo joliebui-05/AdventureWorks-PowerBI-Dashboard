@@ -24,7 +24,19 @@ Different departments often answer business questions manually using spreadsheet
     
 To support future growth, AdventureWorks wants to build a centralized Business Intelligence solution that provides executives and business managers with interactive reporting and actionable insights.
 
-
+**3. Business Problem**
+    
+AdventureWorks lacks a centralized reporting system that allows leadership to understand how sales, profitability, customer behavior, and product performance contribute to overall business success.
+    
+Without integrated reporting, management struggles to answer critical business questions such as:
+    
+    - Which products generate the most value?
+    - Which customer segments contribute the highest revenue?
+    - Which regions should receive additional investment?
+    - Which products have unusually high return rates?
+    - What trends require management attention?
+    
+    As a result, strategic decisions are slower and often rely on fragmented information rather than a single, trusted source of data.
 
 
 
