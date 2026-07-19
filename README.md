@@ -10,7 +10,7 @@ The report combines data modeling, DAX calculations, and data visualization to s
 
 ## 🎯 Business Background
 
-- 1. Business Context**
+**1. Business Context**
 
 AdventureWorks Cycles is a fictional multinational bicycle manufacturer and retailer that sells bicycles, cycling accessories, and apparel across North America, Europe, and the Pacific region.
 
