@@ -382,7 +382,7 @@ The Product Performance page analyzes product sales and returns to identify stro
 
 The Customer Performance page provides insights into customer segmentation.
 
-**Highlights**
+   **Highlights**
 
 - Customer revenue contribution
 - Customer segmentation
