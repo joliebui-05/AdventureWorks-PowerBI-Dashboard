@@ -358,9 +358,8 @@ The Sales Performance page focuses on revenue trends and sales activity.
 
 **Highlights**
 
-- Revenue trend over time
+- Revenue, Profit and Orders trend over time
 - Sales by region
-- Top-performing products
 - Sales target monitoring
 - Monthly performance comparison
 
@@ -381,7 +380,7 @@ The Product Performance page analyzes product sales and returns to identify stro
 
 ![Customer Performance Dashboard](Images/Customer_Performance.png)
 
-The Customer Performance page provides insights into customer purchasing behavior and segmentation.
+The Customer Performance page provides insights into customer segmentation.
 
 **Highlights**
 
@@ -396,7 +395,6 @@ The dashboard includes several interactive features to enhance user experience:
 
 - Dynamic slicers
 - Cross-filtering between visuals
-- Drill-through analysis
 - Interactive tooltips
 - KPI cards with conditional formatting
 
