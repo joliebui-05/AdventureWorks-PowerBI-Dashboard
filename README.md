@@ -42,11 +42,11 @@ As a result, strategic decisions are slower and often rely on fragmented informa
     
 The Business Intelligence solution should help AdventureWorks achieve the following objectives.
     
-Primary Goal
+Primary Goal:
     
     Provide executives with a centralized dashboard that supports faster, data-driven business decisions.
     
-    **Supporting Goals:**
+Supporting Goals:
     
     - Monitor revenue, profit, and order performance over time.
     - Identify the products and categories driving business growth.
