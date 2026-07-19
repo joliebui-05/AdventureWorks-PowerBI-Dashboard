@@ -409,9 +409,32 @@ The dashboard includes several interactive features to enhance user experience:
 
 The dashboard provides actionable insights into sales performance, product trends, customer behavior, and regional performance. These findings can help business stakeholders identify opportunities to increase revenue, improve profitability, and optimize decision-making.
 
-### Executive Summary
+### 6.1 Executive Overview
 
-The analysis reveals that business performance is influenced by seasonal sales trends, differences in regional performance, varying product profitability, and customer purchasing behavior. Monitoring these areas enables stakeholders to make informed decisions based on reliable business metrics.
+The Executive Overview provides a high-level assessment of overall business performance by summarizing financial performance, regional contribution, and product revenue distribution.
+
+#### Key Findings
+
+- The business generated **$24.9M in revenue**, **$10.5M in profit**, and maintained a healthy **42% profit margin** across **25.2K orders**.
+- Revenue and profit increased steadily throughout the reporting period, indicating sustained business growth rather than isolated sales spikes.
+- **North America** remained the strongest-performing market, contributing the highest overall revenue and representing the best opportunity for continued investment.
+- Revenue is heavily concentrated in the **Bikes** category, highlighting a strong product line while creating dependence on a single source of revenue.
+
+#### Deeper Analysis
+
+While overall business performance improved, profitability did not always increase at the same pace as revenue.
+
+- During **2020**, revenue fluctuated throughout the year, yet the **profit margin continued to trend upward**, suggesting improved operational efficiency and stronger cost control despite inconsistent sales.
+- In **2022**, revenue continued to increase while the **profit margin gradually declined**, indicating that higher sales did not translate into proportional profit growth. This may reflect rising operating costs, pricing changes, or a shift toward lower-margin products.
+
+These trends demonstrate that **revenue growth alone is not sufficient to evaluate business performance**. Monitoring profitability alongside revenue provides a more complete picture of financial health and long-term sustainability.
+
+#### Strategic Recommendations
+
+- Continue investing in **North America** while evaluating whether successful sales strategies can be replicated across Europe and the Pacific.
+- Expand marketing and product development efforts for **Accessories** and **Clothing** to reduce dependence on the Bikes category and diversify revenue sources.
+- Monitor **profit margin** alongside revenue growth to ensure increasing sales continue to generate sustainable profitability.
+- Investigate the factors contributing to declining profit margins in 2022, including product mix, pricing strategy, and operating costs, to protect future earnings.
 
 ---
 
