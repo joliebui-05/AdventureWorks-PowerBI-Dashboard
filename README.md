@@ -262,11 +262,10 @@ The transformed data was validated before proceeding to data modeling.
 
 <br>
 
-After data preparation, a relational model was designed to support sales, returns, product, customer, territory, and time-based analysis.
-
+After data preparation, a data model was designed to support sales, returns, customer, product, territory, and time-based analysis. The model was optimized for efficient filtering, reusable calculations, and scalable reporting.
 The model uses a **hybrid dimensional structure**:
 
-- A Start Schema Model connects the main fact tables to customer, territory, date, and product dimensions.
+- A star schema design connects the main fact tables to the customer, territory, date, and product dimensions.
 - The product hierarchy is normalized into separate product, subcategory, and category tables, creating a snowflake structure.
 
 #### Model Structure
