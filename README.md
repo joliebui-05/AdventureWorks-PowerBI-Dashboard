@@ -42,7 +42,7 @@ As a result, strategic decisions are slower and often rely on fragmented informa
     
 The Business Intelligence solution should help AdventureWorks achieve the following objectives.
     
-    **Primary Goal:**
+Primary Goal
     
     Provide executives with a centralized dashboard that supports faster, data-driven business decisions.
     
