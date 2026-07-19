@@ -277,7 +277,7 @@ The model uses a **hybrid dimensional structure**:
 | **Dim_Customer** | Provides customer attributes for segmentation and behavioral analysis. |
 | **Dim_Territory** | Supports regional and geographic performance analysis. |
 | **Dim_Date** | Enables consistent time-based analysis across sales and returns. |
-| **Product Snowflake** | Uses `Dim_Product`, `Dim_Product_SubCategory`, and `Dim_Product_Category` to support detailed product drill-down analysis. |
+| **Product Hierarchy** | Uses Dim_Product, Dim_Product_SubCategory, and Dim_Product_Category to create a normalized product hierarchy, enabling drill-down analysis from product category to individual products. |
 
 #### Relationship Design
 
