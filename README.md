@@ -8,15 +8,26 @@ This project is an end-to-end business intelligence solution built in Power BI u
 It transforms sales data into interactive dashboards that help monitor sales performance, product trends, and customer behavior. 
 The report combines data modeling, DAX calculations, and data visualization to support business decision-making.
 
-## 🎯 Business Problem
+## 🎯 Business Background
 
-AdventureWorks required a centralized reporting solution to monitor business performance and support data-driven decision-making. The dashboard was designed to answer key questions such as:
+1. Company Overview:
 
-- How are revenue and profit changing over time?
-- Which products contribute the most revenue?
-- Which regions perform best?
-- Which products have the highest return rates?
-- How does customer growth compare to customer value?
+AdventureWorks Cycles is a fictional multinational bicycle manufacturer and retailer that sells bicycles, cycling accessories, and apparel across North America, Europe, and the Pacific region.
+The company collects transactional sales data, customer information, product details, and return records. As the business grows, management needs a more effective way to monitor performance and make strategic decisions.
+
+- **2. Business Context**
+    
+    AdventureWorks has experienced steady business growth over recent years. However, business data is stored across multiple operational datasets, making it difficult for decision-makers to obtain a clear and consistent view of company performance.
+    
+    Different departments often answer business questions manually using spreadsheets or isolated reports, resulting in slower decision-making and limited visibility into overall business performance.
+    
+    To support future growth, AdventureWorks wants to build a centralized Business Intelligence solution that provides executives and business managers with interactive reporting and actionable insights.
+
+
+
+
+
+
 
 ## 🛠 Project Workflow
 
