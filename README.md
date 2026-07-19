@@ -224,7 +224,7 @@ The source data was reviewed to identify issues that could affect reporting accu
 | Issue | Resolution |
 |-------|------------|
 | **Customer Name Encoding** | A small number of customer names contain corrupted accented characters in the original dataset. Changing the file encoding to **UTF-8 (65001)** did not resolve the issue, indicating the problem exists in the source data. Since it does not affect relationships, KPI calculations, or business analysis, the original values were retained. |
-| **Date Range Alignment** | Sales transactions begin on **1 Jan 2020**, while stock records begin on **9 Nov 2019**. To ensure complete date coverage across the model, the Date table was created using the earliest available date (**9 Nov 2019**). |
+| **Date Range Alignment** | Order_Date from Sales Data begin on **Jan 01 2020**, while Stock_Date begin on **Sep 11 2019**. To ensure complete date coverage across the model, the Date table was created using the earliest available date (**Sep 11 2019**). |
 
 *(Optional: Insert Power Query screenshot here)*
 
