@@ -98,7 +98,6 @@ The first step of the project was to identify the key stakeholders and understan
 | **Product Managers** | Evaluate product performance and return trends | Pricing strategy, product improvements, and inventory planning |
 | **Regional Managers** | Compare sales performance across territories | Regional investment decisions and resource allocation |
 | **Marketing Managers** | Analyze customer behavior and product trends | Marketing campaigns, customer targeting, and promotional strategies |
-| **Operations Team** | Monitor order volume and product returns | Inventory planning, supply chain improvements, and quality management |
 
 **Outcome:** The dashboard was designed to provide each stakeholder group with relevant KPIs and interactive visualizations, enabling faster and more informed business decisions.
 
