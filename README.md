@@ -40,20 +40,20 @@ As a result, strategic decisions are slower and often rely on fragmented informa
 
 **4. Business Goals**
     
-The Business Intelligence solution should help AdventureWorks achieve the following objectives.
-    
-Primary Goal:
-    
-- Provide executives with a centralized dashboard that supports faster, data-driven business decisions.
-    
-Supporting Goals:
-    
-- Monitor revenue, profit, and order performance over time.
-- Identify the products and categories driving business growth.
-- Understand customer purchasing behavior and high-value segments.
-- Compare regional performance to identify growth opportunities.
-- Monitor product returns to uncover potential quality or operational issues.
-- Improve visibility across the organization using a single source of truth.
+AdventureWorks' business strategy focuses on driving sustainable growth through better visibility into sales performance, product performance, customer behavior, and regional trends.
+
+This Business Intelligence solution supports that strategy by providing a centralized reporting platform that enables stakeholders to monitor key performance indicators (KPIs), identify business opportunities, and make informed decisions based on reliable data.
+
+Specifically, this project helps AdventureWorks:
+
+- **Monitor sales performance** to evaluate revenue, profit, and order trends over time.
+- **Identify high-performing and underperforming products** to support product portfolio and pricing decisions.
+- **Understand customer purchasing behavior** to better target valuable customer segments and improve marketing strategies.
+- **Evaluate regional sales performance** to identify growth opportunities and allocate resources more effectively.
+- **Analyze product return trends** to identify products that may require further investigation or improvement.
+- **Establish a single source of truth** that replaces fragmented reporting with consistent, interactive business insights.
+
+By transforming raw transactional data into actionable information, this solution enables leadership to make faster, more informed decisions that align with the company's growth objectives.
 
 
 
