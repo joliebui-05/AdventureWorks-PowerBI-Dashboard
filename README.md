@@ -124,3 +124,63 @@ Provide executives with a centralized dashboard that supports faster, data-drive
 - Average Order Value
 
 </details>
+
+<br>
+
+<details>
+<summary><strong>4. Data Modeling</strong></summary>
+
+<br>
+
+- Revenue
+- Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>5. Dashboard Development</strong></summary>
+
+<br>
+
+- Revenue
+- Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>6. Business Analysis</strong></summary>
+
+<br>
+
+- Revenue
+- Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>7. Validation & Future Improvements</strong></summary>
+
+<br>
+
+- Revenue
+- Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
+
+</details>
