@@ -258,82 +258,58 @@ The transformed data was validated before proceeding to data modeling.
 <br>
 
 <details>
-
 <summary><strong>4. Data Modeling</strong></summary>
 
 <br>
 
-After preparing the data, a relational data model was designed to provide a reliable foundation for analysis. The model follows a **Star Schema**, separating transactional data from descriptive dimension tables to improve query performance, simplify report development, and support scalable business analysis.
+After data preparation, a relational model was designed to support sales, returns, product, customer, territory, and time-based analysis.
 
-### Data Model Design
+The model uses a **hybrid dimensional structure**:
 
-The model consists of two fact tables supported by multiple dimension tables.
+- A star-style design connects the main fact tables to customer, territory, date, and product dimensions.
+- The product hierarchy is normalized into separate product, subcategory, and category tables, creating a snowflake structure.
 
-| Table Type | Purpose |
-|------------|---------|
-| **Fact Tables** | Store transactional sales and returns data used for KPI calculations. |
-| **Dimension Tables** | Provide descriptive attributes such as products, customers, territories, dates, and sales personnel for filtering and analysis. |
+### Model Structure
 
----
-
-### Relationships
-
-The data model was built using one-to-many relationships with single-direction filtering to ensure efficient data propagation and minimize ambiguity.
-
-**Model design principles**
-
-- Implemented a star schema architecture
-- Used surrogate keys to relate fact and dimension tables
-- Applied one-to-many relationships
-- Maintained single-direction filter propagation
-- Avoided circular relationships and ambiguity
-- Created a dedicated Date table for time intelligence
+| Table Group | Purpose |
+|-------------|---------|
+| **Fact_Sales** | Stores sales transactions, including orders, quantities, products, customers, territories, order dates, and stock dates. |
+| **Fact_Returns** | Stores product return quantities by return date, product, and territory. |
+| **Dim_Customer** | Provides customer attributes for segmentation and behavioral analysis. |
+| **Dim_Territory** | Supports regional and geographic performance analysis. |
+| **Dim_Date** | Enables consistent time-based analysis across sales and returns. |
+| **Product Hierarchy** | Uses `Dim_Product`, `Dim_Product_SubCategory`, and `Dim_Product_Category` to support detailed product drill-down analysis. |
 
 ---
 
-### Date Table
+### Relationship Design
 
-A dedicated Date table was created to support consistent time-based analysis across the model.
+The model primarily uses one-to-many relationships with single-direction filtering.
 
-Key features include:
+**Design principles applied**
 
-- Continuous calendar covering the earliest available business date
-- Year, Quarter, Month, Week, and Day attributes
-- Month Name and Month Number for chronological sorting
-- Fiscal and calendar reporting support
-
----
-
-### Measures
-
-Business metrics were implemented using DAX measures rather than calculated columns where appropriate.
-
-Key measures include:
-
-- Total Sales
-- Total Orders
-- Total Profit
-- Return Rate
-- Average Order Value
-- Monthly Revenue
-- Previous Month Revenue
-- Revenue Target Achievement
-
-These reusable measures provide a consistent foundation for all dashboard pages.
+- Connected dimension tables to fact tables using key fields
+- Used one-to-many relationships where appropriate
+- Applied single-direction filtering to reduce ambiguity
+- Created separate fact tables for sales and returns
+- Used a dedicated Date table for time intelligence
+- Normalized the product hierarchy into category, subcategory, and product levels
+- Avoided unnecessary many-to-many relationships
 
 ---
 
-### Model Validation
+### Product Snowflake Structure
 
-Before report development, the model was validated by:
+The product dimension was separated into three levels:
 
-- Verifying all table relationships
-- Confirming filter propagation
-- Testing DAX measure accuracy
-- Comparing KPI calculations against source data
-- Ensuring correct aggregation across report visuals
-
-📷 **Data Model Diagram:** [View Data Model](Images/Data_Model.png)
+```text
+Dim_Product_Category
+        ↓
+Dim_Product_SubCategory
+        ↓
+Dim_Product
+        ↓
+Fact_Sales / Fact_Returns
 
 </details>
 
