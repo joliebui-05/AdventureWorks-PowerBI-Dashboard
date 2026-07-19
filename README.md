@@ -10,9 +10,10 @@ The report combines data modeling, DAX calculations, and data visualization to s
 
 ## 🎯 Business Background
 
-1. Company Overview:
+- **1. Business Context**
 
 AdventureWorks Cycles is a fictional multinational bicycle manufacturer and retailer that sells bicycles, cycling accessories, and apparel across North America, Europe, and the Pacific region.
+
 The company collects transactional sales data, customer information, product details, and return records. As the business grows, management needs a more effective way to monitor performance and make strategic decisions.
 
 - **2. Business Context**
