@@ -84,8 +84,6 @@ By transforming raw data into actionable information, this solution enables lead
 
 ## 🛠 Project Workflow
 
-<br>
-
 <details>
 <summary><strong>1. Business Understanding</strong></summary>
 
