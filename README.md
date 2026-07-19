@@ -44,16 +44,16 @@ The Business Intelligence solution should help AdventureWorks achieve the follow
     
 Primary Goal:
     
-    Provide executives with a centralized dashboard that supports faster, data-driven business decisions.
+- Provide executives with a centralized dashboard that supports faster, data-driven business decisions.
     
 Supporting Goals:
     
-    - Monitor revenue, profit, and order performance over time.
-    - Identify the products and categories driving business growth.
-    - Understand customer purchasing behavior and high-value segments.
-    - Compare regional performance to identify growth opportunities.
-    - Monitor product returns to uncover potential quality or operational issues.
-    - Improve visibility across the organization using a single source of truth.
+- Monitor revenue, profit, and order performance over time.
+- Identify the products and categories driving business growth.
+- Understand customer purchasing behavior and high-value segments.
+- Compare regional performance to identify growth opportunities.
+- Monitor product returns to uncover potential quality or operational issues.
+- Improve visibility across the organization using a single source of truth.
 
 
 
