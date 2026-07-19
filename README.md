@@ -334,7 +334,7 @@ Fact_Sales / Fact_Returns
 
 The dashboard was designed to provide stakeholders with a clear and interactive view of business performance. Each report page focuses on a specific business area while maintaining a consistent layout, navigation, and visual style.
 
-### Dashboard Design Principles
+#### Dashboard Design Principles
 
 The dashboard was developed with the following design principles:
 
