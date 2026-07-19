@@ -434,7 +434,7 @@ The Executive Overview provides a high-level assessment of overall business perf
 - Expand marketing and product development efforts for **Accessories** and **Clothing** to reduce dependence on the Bikes category and diversify revenue sources.
 - Monitor **profit margin** alongside revenue growth to ensure increasing sales continue to generate sustainable profitability.
 - Investigate the factors contributing to declining profit margins in 2022, including product mix, pricing strategy, and operating costs, to protect future earnings.
-
+---
 ### Sales Performance
 
 The Sales Performance dashboard evaluates revenue trends, order activity, regional performance, and customer purchasing behavior to identify the key drivers of business growth.
