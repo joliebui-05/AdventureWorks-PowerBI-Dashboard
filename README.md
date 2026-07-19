@@ -10,7 +10,7 @@ It transforms sales data into interactive dashboards that help monitor sales per
 The report combines data modeling, DAX calculations, and data visualization to support business decision-making.
 
 ## 🎯 Business Background
-<br>
+
 
 <details>
 <summary><strong>1. Company Overview</strong></summary>
