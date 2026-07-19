@@ -422,12 +422,11 @@ The Executive Overview provides a high-level assessment of overall business perf
 
 #### Deeper Analysis
 
-While overall business performance improved, profitability did not always increase at the same pace as revenue.
+Revenue increased throughout the reporting period, reflecting continued business growth. However, the **profit margin did not increase at the same pace**.
 
-- During **2020**, revenue fluctuated throughout the year, yet the **profit margin continued to trend upward**, suggesting improved operational efficiency and stronger cost control despite inconsistent sales.
-- In **2022**, revenue continued to increase while the **profit margin gradually declined**, indicating that higher sales did not translate into proportional profit growth. This may reflect rising operating costs, pricing changes, or a shift toward lower-margin products.
+During 2022, revenue continued to rise while the profit margin showed a slight downward trend. This indicates that although the business generated higher total profit, each additional dollar of revenue contributed proportionally less profit than before.
 
-These trends demonstrate that **revenue growth alone is not sufficient to evaluate business performance**. Monitoring profitability alongside revenue provides a more complete picture of financial health and long-term sustainability.
+This pattern may suggest increasing operating costs, pricing adjustments, or a shift toward lower-margin products. As a result, revenue growth should be evaluated alongside profit margin to ensure business growth remains both sustainable and profitable.
 
 #### Strategic Recommendations
 
