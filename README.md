@@ -263,7 +263,7 @@ The transformed data was validated before proceeding to data modeling.
 
 <br>
 
-After preparing the data, a relational data model was designed to provide a reliable foundation for analysis. The model follows a **star schema**, separating transactional data from descriptive dimension tables to improve query performance, simplify report development, and support scalable business analysis.
+After preparing the data, a relational data model was designed to provide a reliable foundation for analysis. The model follows a **Star Schema**, separating transactional data from descriptive dimension tables to improve query performance, simplify report development, and support scalable business analysis.
 
 ### Data Model Design
 
