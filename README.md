@@ -283,15 +283,29 @@ The model uses a **hybrid dimensional structure**:
 
 The model primarily uses one-to-many relationships with single-direction filtering.
 
-**Design principles applied**
+#### Relationship Design
+
+The model primarily uses one-to-many relationships with single-direction filtering to ensure efficient data propagation and minimize ambiguity.
+
+**Design principles**
 
 - Connected dimension tables to fact tables using key fields
-- Used one-to-many relationships where appropriate
-- Applied single-direction filtering to reduce ambiguity
+- Applied one-to-many relationships
+- Used single-direction filtering
 - Created separate fact tables for sales and returns
-- Used a dedicated Date table for time intelligence
 - Normalized the product hierarchy into category, subcategory, and product levels
 - Avoided unnecessary many-to-many relationships
+
+### Date Dimension
+
+A dedicated Date dimension was created to provide a consistent calendar across the model and support time intelligence calculations.
+
+**Key features**
+
+- Supports multiple business dates, including **Order_Date**, **Stock_Date**, and **Return_Date**.
+- Uses active and inactive relationships to enable analysis across different business events while maintaining a single reusable calendar.
+- Includes Year, Quarter, Month, Week, and Day attributes for flexible time-based reporting.
+- Begins on **11 September 2019**, the earliest date in the dataset, ensuring complete coverage for both sales and inventory data.
 
 #### Product Snowflake Structure
 
