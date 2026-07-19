@@ -127,11 +127,6 @@ By transforming raw transactional data into actionable information, this solutio
 
 <br>
 
-<details>
-<summary><strong>2. KPI Planning</strong></summary>
-
-<br>
-
 Before building the dashboard, the key performance indicators (KPIs) were defined to ensure the solution aligned with AdventureWorks' business objectives. Each KPI was selected to measure business performance, monitor progress, and support strategic decision-making.
 
 #### Success Criteria
