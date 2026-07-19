@@ -319,7 +319,7 @@ Fact_Sales / Fact_Returns
 
 #### Data Model Diagram
 
-![AdventureWorks Data Model]()
+![AdventureWorks Data Model](Images/Data_Model.png)
 
 *Figure: Hybrid dimensional model consisting of two fact tables, shared dimensions, and a snowflaked product hierarchy.*
 
