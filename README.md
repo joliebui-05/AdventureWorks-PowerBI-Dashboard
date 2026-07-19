@@ -13,7 +13,7 @@ The report combines data modeling, DAX calculations, and data visualization to s
 <br>
 
 <details>
-<summary><strong>1. Business Context</strong></summary>
+<summary><strong>1. Company Overview</strong></summary>
 
 <br>
 
@@ -38,7 +38,6 @@ To support future growth, AdventureWorks wants to build a centralized Business I
 
 </details>
 
-**2. Business Context**
     
 
 
