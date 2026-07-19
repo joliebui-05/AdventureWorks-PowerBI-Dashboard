@@ -435,8 +435,34 @@ The Executive Overview provides a high-level assessment of overall business perf
 - Monitor **profit margin** alongside revenue growth to ensure increasing sales continue to generate sustainable profitability.
 - Investigate the factors contributing to declining profit margins in 2022, including product mix, pricing strategy, and operating costs, to protect future earnings.
 
----
+### Sales Performance
 
+The Sales Performance dashboard evaluates revenue trends, order activity, regional performance, and customer purchasing behavior to identify the key drivers of business growth.
 
+#### Key Findings
+
+- Revenue and order volume increased throughout the reporting period, with the strongest sales performance occurring during **Q4**, indicating clear seasonal demand.
+- Although order volume recovered after July, revenue growth was comparatively slower, suggesting that higher sales volume did not translate into proportional revenue growth.
+- **Australia** consistently led in **order volume**, **Revenue per Order**, and **Average Order Value (AOV)**, making it the strongest-performing market.
+- The **UK** recorded one of the highest **Average Order Values** despite relatively lower order volume, highlighting potential opportunities for market expansion.
+
+#### Deeper Analysis
+
+While overall sales performance improved, customer purchasing behavior changed significantly over time.
+
+- Total orders increased substantially from **2.6K (2020)** to **10.7K (2021)** and **11.8K (2022)**.
+- During the same period, **Average Order Value (AOV)** declined from approximately **$2,000** in 2020 to **$872** in 2021 and **$776** in 2022.
+
+This suggests that business growth was increasingly driven by **higher transaction volume rather than larger individual purchases**. Customers placed significantly more orders, but spent less per order on average.
+
+Although this strategy successfully increased revenue, the declining AOV may indicate changes in customer purchasing behavior, pricing strategy, promotional activity, or product mix. Further investigation would help identify the primary drivers behind this trend.
+
+#### Strategic Recommendations
+
+- Continue leveraging seasonal demand by strengthening inventory planning and sales initiatives ahead of **Q4**.
+- Monitor **Average Order Value** alongside revenue and order growth to ensure sales volume continues to generate sustainable business value.
+- Analyze pricing strategy, promotional campaigns, and product mix to better understand the factors contributing to the decline in AOV.
+- Develop cross-selling and upselling initiatives to increase the average spend per transaction while maintaining strong order growth.
+- Use Australia's successful sales performance as a benchmark to identify best practices that can be adapted for lower-performing regions, particularly markets with high AOV but lower order volume such as the UK.
 
 </details>
