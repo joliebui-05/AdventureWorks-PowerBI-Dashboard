@@ -38,11 +38,13 @@ To support future growth, AdventureWorks wants to build a centralized Business I
 
 </details>
 
-    
+<br>
 
+<details>
+<summary><strong>3. Business Problem</strong></summary>
 
-**3. Business Problem**
-    
+<br>
+
 AdventureWorks lacks a centralized reporting system that allows leadership to understand how sales, profitability, customer behavior, and product performance contribute to overall business success.
     
 Without integrated reporting, management struggles to answer critical business questions such as:
@@ -55,8 +57,15 @@ Without integrated reporting, management struggles to answer critical business q
     
 As a result, strategic decisions are slower and often rely on fragmented information rather than a single, trusted source of data.
 
-**4. Business Goals**
-    
+</details>
+
+<br>
+
+<details>
+<summary><strong>4. Business Goals</strong></summary>
+
+<br>
+
 AdventureWorks' business strategy focuses on driving sustainable growth through better visibility into sales performance, product performance, customer behavior, and regional trends.
 
 This Business Intelligence solution supports that strategy by providing a centralized reporting platform that enables stakeholders to monitor key performance indicators (KPIs), identify business opportunities, and make informed decisions based on reliable data.
@@ -72,9 +81,7 @@ Specifically, this project helps AdventureWorks:
 
 By transforming raw data into actionable information, this solution enables leadership to make faster, more informed decisions that align with the company's growth objectives.
 
-
-
-
+</details>
 
 ## 🛠 Project Workflow
 
