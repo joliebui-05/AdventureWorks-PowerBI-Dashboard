@@ -109,3 +109,18 @@ By transforming raw data into actionable information, this solution enables lead
 - Average Order Value
 
 </details>
+
+<br>
+
+<details>
+<summary><strong>3. Data Preparation</strong></summary>
+
+<br>
+
+- Revenue
+- Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
+
+</details>
