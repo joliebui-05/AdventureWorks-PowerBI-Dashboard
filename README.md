@@ -127,11 +127,80 @@ By transforming raw transactional data into actionable information, this solutio
 
 <br>
 
-- Revenue
-- Profit
-- Profit Margin
-- Total Orders
-- Average Order Value
+<details>
+<summary><strong>2. KPI Planning</strong></summary>
+
+<br>
+
+Before building the dashboard, the key performance indicators (KPIs) were defined to ensure the solution aligned with AdventureWorks' business objectives. Each KPI was selected to measure business performance, monitor progress, and support strategic decision-making.
+
+### Success Criteria
+
+The success of this project was defined by its ability to deliver a centralized business intelligence solution that enables stakeholders to:
+
+- Monitor overall business performance
+- Identify growth opportunities
+- Track key performance indicators (KPIs)
+- Support data-driven decision-making through interactive reporting
+
+---
+
+### Key Performance Indicators (KPIs)
+
+| KPI | Business Purpose |
+|-----|------------------|
+| **Total Revenue** | Measure overall sales performance. |
+| **Total Profit** | Evaluate business profitability. |
+| **Profit Margin (%)** | Monitor operational efficiency and profitability. |
+| **Total Orders** | Track sales activity and customer demand. |
+| **Revenue per Customer** | Measure customer value and purchasing behavior. |
+| **Revenue by Product** | Identify high-performing and underperforming products. |
+| **Revenue by Territory** | Compare regional sales performance and identify growth opportunities. |
+| **Return Rate (%)** | Monitor product quality and customer satisfaction. |
+
+---
+
+### Data Requirements
+
+To calculate these KPIs, the dashboard integrates data from multiple business domains:
+
+| Business Domain | Data Required |
+|-----------------|---------------|
+| Sales | Sales transactions, order quantity, revenue |
+| Customers | Customer information and purchasing behavior |
+| Products | Products, categories, and subcategories |
+| Returns | Returned orders and return quantities |
+| Territories | Sales territories and regional information |
+| Finance | Costs, profit, and pricing information |
+| Calendar | Date table for time-based analysis |
+
+---
+
+### Data Sources
+
+| Data Source | Business Owner |
+|-------------|----------------|
+| Sales System | Sales |
+| CRM | Sales & Marketing |
+| Returns System | Operations |
+| Product Database | Product Management |
+| Territory Database | Sales Operations |
+| Finance System | Finance |
+
+---
+
+### KPI Measurement Plan
+
+The selected KPIs provide a balanced view of business performance across four key areas:
+
+- **Sales Performance** – Revenue, Profit, Orders
+- **Product Performance** – Product Revenue, Return Rate
+- **Customer Performance** – Revenue per Customer
+- **Regional Performance** – Revenue by Territory
+
+Together, these metrics provide stakeholders with a comprehensive view of company performance while supporting strategic and operational decision-making.
+
+</details>
 
 </details>
 
