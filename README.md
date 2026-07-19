@@ -252,83 +252,12 @@ The transformed data was validated before proceeding to data modeling.
 - Checked for unexpected null values
 - Reviewed calculated fields
 - Ensured the dataset was ready for reporting
+<details>
+    
+<br>
 
 <details>
 <summary><strong>4. Data Modeling</strong></summary>
-
-<br>
-
-After preparing the data, a relational data model was designed to provide a reliable foundation for analysis. The model follows a **star schema**, separating transactional data from descriptive dimension tables to improve query performance, simplify report development, and support scalable business analysis.
-
-### Data Model Design
-
-The model consists of two fact tables supported by multiple dimension tables.
-
-| Table Type | Purpose |
-|------------|---------|
-| **Fact Tables** | Store transactional sales and returns data used for KPI calculations. |
-| **Dimension Tables** | Provide descriptive attributes such as products, customers, territories, dates, and sales personnel for filtering and analysis. |
-
----
-
-### Relationships
-
-The data model was built using one-to-many relationships with single-direction filtering to ensure efficient data propagation and minimize ambiguity.
-
-**Model design principles**
-
-- Implemented a star schema architecture
-- Used surrogate keys to relate fact and dimension tables
-- Applied one-to-many relationships
-- Maintained single-direction filter propagation
-- Avoided circular relationships and ambiguity
-- Created a dedicated Date table for time intelligence
-
----
-
-### Date Table
-
-A dedicated Date table was created to support consistent time-based analysis across the model.
-
-Key features include:
-
-- Continuous calendar covering the earliest available business date
-- Year, Quarter, Month, Week, and Day attributes
-- Month Name and Month Number for chronological sorting
-- Fiscal and calendar reporting support
-
----
-
-### Measures
-
-Business metrics were implemented using DAX measures rather than calculated columns where appropriate.
-
-Key measures include:
-
-- Total Sales
-- Total Orders
-- Total Profit
-- Return Rate
-- Average Order Value
-- Monthly Revenue
-- Previous Month Revenue
-- Revenue Target Achievement
-
-These reusable measures provide a consistent foundation for all dashboard pages.
-
----
-
-### Model Validation
-
-Before report development, the model was validated by:
-
-- Verifying all table relationships
-- Confirming filter propagation
-- Testing DAX measure accuracy
-- Comparing KPI calculations against source data
-- Ensuring correct aggregation across report visuals
-
-📷 **Data Model Diagram:** [View Data Model](Images/Data_Model.png)
 
 </details>
 
