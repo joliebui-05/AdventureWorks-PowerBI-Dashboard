@@ -306,7 +306,6 @@ Dim_Product
         ↓
 Fact_Sales / Fact_Returns
 
-</details>
 
 
 
