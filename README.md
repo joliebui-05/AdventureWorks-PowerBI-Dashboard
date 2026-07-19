@@ -134,7 +134,7 @@ By transforming raw transactional data into actionable information, this solutio
 
 Before building the dashboard, the key performance indicators (KPIs) were defined to ensure the solution aligned with AdventureWorks' business objectives. Each KPI was selected to measure business performance, monitor progress, and support strategic decision-making.
 
-### Success Criteria
+#### Success Criteria
 
 The success of this project was defined by its ability to deliver a centralized business intelligence solution that enables stakeholders to:
 
@@ -143,9 +143,7 @@ The success of this project was defined by its ability to deliver a centralized 
 - Track key performance indicators (KPIs)
 - Support data-driven decision-making through interactive reporting
 
----
-
-### Key Performance Indicators (KPIs)
+#### Key Performance Indicators (KPIs)
 
 | KPI | Business Purpose |
 |-----|------------------|
@@ -158,9 +156,7 @@ The success of this project was defined by its ability to deliver a centralized 
 | **Revenue by Territory** | Compare regional sales performance and identify growth opportunities. |
 | **Return Rate (%)** | Monitor product quality and customer satisfaction. |
 
----
-
-### Data Requirements
+#### Data Requirements
 
 To calculate these KPIs, the dashboard integrates data from multiple business domains:
 
@@ -174,9 +170,7 @@ To calculate these KPIs, the dashboard integrates data from multiple business do
 | Finance | Costs, profit, and pricing information |
 | Calendar | Date table for time-based analysis |
 
----
-
-### Data Sources
+#### Data Sources
 
 | Data Source | Business Owner |
 |-------------|----------------|
@@ -187,9 +181,7 @@ To calculate these KPIs, the dashboard integrates data from multiple business do
 | Territory Database | Sales Operations |
 | Finance System | Finance |
 
----
-
-### KPI Measurement Plan
+#### KPI Measurement Plan
 
 The selected KPIs provide a balanced view of business performance across four key areas:
 
