@@ -194,9 +194,6 @@ Together, these metrics provide stakeholders with a comprehensive view of compan
 <details>
 <summary><strong>3. Data Preparation</strong></summary>
 
-<details>
-<summary><strong>3. Data Preparation</strong></summary>
-
 <br>
 
 Before building the data model, the AdventureWorks source data was imported, assessed, and transformed to ensure it was accurate, consistent, and suitable for analysis.
