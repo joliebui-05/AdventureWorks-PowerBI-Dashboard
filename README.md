@@ -296,7 +296,7 @@ The model primarily uses one-to-many relationships with single-direction filteri
 - Normalized the product hierarchy into category, subcategory, and product levels
 - Avoided unnecessary many-to-many relationships
 
-### Date Dimension
+#### Date Dimension
 
 A dedicated Date dimension was created to provide a consistent calendar across the model and support time intelligence calculations.
 
