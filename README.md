@@ -30,13 +30,13 @@ AdventureWorks lacks a centralized reporting system that allows leadership to un
     
 Without integrated reporting, management struggles to answer critical business questions such as:
     
-    - Which products generate the most value?
-    - Which customer segments contribute the highest revenue?
-    - Which regions should receive additional investment?
-    - Which products have unusually high return rates?
-    - What trends require management attention?
+- Which products generate the most value?
+- Which customer segments contribute the highest revenue?
+- Which regions should receive additional investment?
+- Which products have unusually high return rates?
+- What trends require management attention?
     
-    As a result, strategic decisions are slower and often rely on fragmented information rather than a single, trusted source of data.
+As a result, strategic decisions are slower and often rely on fragmented information rather than a single, trusted source of data.
 
 
 
