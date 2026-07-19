@@ -203,71 +203,29 @@ Together, these metrics provide stakeholders with a comprehensive view of compan
 
 <br>
 
-Before building the data model and dashboards, the source data was reviewed, cleaned, and transformed to ensure it was suitable for analysis.
+### Known Data Considerations
 
-### Data Acquisition
+During data preparation, two dataset characteristics were identified that influenced the report design.
 
-The project uses the AdventureWorks dataset provided as multiple CSV files.
+#### 1. Customer Name Encoding
 
-| Source | Access Method | Storage |
-|---------|---------------|---------|
-| AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
+A small number of customer names contain corrupted accented characters in the source files. The issue originates from the original dataset rather than the ETL process.
 
----
-
-### Data Quality Assessment
-
-The source data was reviewed to identify issues that could impact reporting accuracy.
-
-**Quality checks performed**
-
-- Reviewed column data types
-- Checked for missing values
-- Validated unique keys
-- Reviewed duplicate records
-- Verified relationships between datasets
-- Inspected data consistency across tables
-
-#### Known Data Quality Issue
-
-The Customer dataset contains a small number of corrupted characters (missing accented characters) in customer names.
-
-Since the issue originates from the source files and does not affect KPI calculations, relationships, or business analysis, the original values were retained.
-
-> Attempted solution: Changed the file encoding to **UTF-8 (65001)**, but the issue persisted, indicating the problem exists in the original dataset.
-
-*(Insert your Power Query screenshot here)*
+An attempt was made to resolve the issue by changing the file encoding to **UTF-8 (65001)**; however, the problem persisted. Since the affected values do not impact relationships, KPI calculations, or business analysis, the original data was retained.
 
 ---
 
-### Data Transformation (ETL)
+#### 2. Date Range Alignment
 
-Power Query was used to prepare the data before modeling.
+The **Fact Sales** table begins on **1 January 2020**, while the **Stock Date** field contains records starting from **9 November 2019**.
 
-Transformations included:
+To ensure all business events were represented correctly, the Date table was designed to begin on **9 November 2019** rather than the first sales transaction date.
 
-- Imported CSV files into Power BI
-- Promoted column headers
-- Assigned appropriate data types
-- Removed unnecessary columns
-- Renamed columns for consistency
-- Created calculated columns where required
-- Prepared lookup tables for data modeling
+This approach ensures:
 
----
-
-### Data Validation
-
-Before proceeding to data modeling, the transformed data was validated by:
-
-- Confirming row counts after transformations
-- Verifying key relationships
-- Checking for unexpected null values
-- Reviewing calculated fields
-- Ensuring data was ready for reporting
-
-</details>
-
+- Complete date coverage across all fact tables.
+- Accurate relationships between the Date table and transactional data.
+- Support for future analysis involving inventory and stock movements.
 </details>
 
 <br>
