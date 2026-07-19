@@ -3,7 +3,6 @@ Interactive Power BI dashboard analyzing AdventureWorks sales, products, and cus
 
 ---
 
-````markdown
 ## 🛠 Project Workflow
 
 ```text
@@ -25,8 +24,23 @@ Validation & Future Improvements
 <details>
 <summary><strong>1. Business Understanding</strong></summary>
 
+<br>
+
 - Defined business objectives
 - Identified stakeholders
 - Determined reporting requirements
+
+</details>
+
+<details>
+<summary><strong>2. KPI Planning</strong></summary>
+
+<br>
+
+- Revenue
+- Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
 
 </details>
