@@ -198,7 +198,7 @@ Together, these metrics provide stakeholders with a comprehensive view of compan
 
 Before building the data model, the AdventureWorks source data was imported, assessed, and transformed to ensure it was accurate, consistent, and suitable for analysis.
 
-### Data Acquisition
+$### Data Acquisition
 
 The project uses the AdventureWorks dataset provided as multiple CSV files, which were imported into **Power BI Desktop** using **Power Query**.
 
@@ -206,9 +206,7 @@ The project uses the AdventureWorks dataset provided as multiple CSV files, whic
 |---------|---------------|---------|
 | AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
 
----
-
-### Data Quality Assessment
+#### Data Quality Assessment
 
 The source data was reviewed to identify issues that could affect reporting accuracy and model reliability.
 
@@ -230,9 +228,7 @@ The source data was reviewed to identify issues that could affect reporting accu
 
 *(Optional: Insert Power Query screenshot here)*
 
----
-
-### Data Transformation
+#### Data Transformation
 
 Power Query was used to prepare the data before modeling.
 
@@ -245,9 +241,7 @@ Power Query was used to prepare the data before modeling.
 - Renamed fields for consistency
 - Prepared dimension tables for modeling
 
----
-
-### Data Validation
+#### Data Validation
 
 The transformed data was validated before proceeding to data modeling.
 
