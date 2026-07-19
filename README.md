@@ -356,7 +356,7 @@ The Executive Overview serves as the landing page and provides a high-level summ
 
 The Sales Performance page focuses on revenue trends and sales activity.
 
-**Highlights**
+##### Highlights
 
 - Revenue, Profit and Orders trend over time
 - Sales by region
@@ -369,7 +369,7 @@ The Sales Performance page focuses on revenue trends and sales activity.
 
 The Product Performance page analyzes product sales and returns to identify strong and weak performers.
 
-**Highlights**
+##### Highlights
 
 - Product revenue ranking
 - Return rate analysis
