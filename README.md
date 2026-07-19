@@ -407,9 +407,9 @@ The dashboard includes several interactive features to enhance user experience:
 
 <br>
 
-The dashboard provides actionable insights into sales performance, product trends, customer behavior, and regional performance. These findings can help business stakeholders identify opportunities to increase revenue, improve profitability, and optimize decision-making.
+The dashboard provides actionable insights into sales performance, product trends, customer segmentation, and regional performance. These findings can help business stakeholders identify opportunities to increase revenue, improve profitability, and optimize decision-making.
 
-### 6.1 Executive Overview
+### Executive Overview
 
 The Executive Overview provides a high-level assessment of overall business performance by summarizing financial performance, regional contribution, and product revenue distribution.
 
@@ -438,40 +438,6 @@ These trends demonstrate that **revenue growth alone is not sufficient to evalua
 
 ---
 
-### Key Business Insights
 
-#### 📈 Sales Performance
-
-- Revenue and order volume fluctuate throughout the year, indicating seasonal demand patterns.
-- Certain territories consistently outperform others, highlighting opportunities to replicate successful sales strategies.
-- Month-over-month KPIs allow managers to quickly identify growth trends or performance declines.
-
----
-
-#### 📦 Product Performance
-
-- A small number of products generate a significant share of total revenue.
-- Products with higher return rates may indicate quality issues, pricing concerns, or mismatched customer expectations.
-- Product category analysis helps identify high-performing product lines and underperforming segments.
-
----
-
-#### 👥 Customer & Territory Performance
-
-- Customer purchasing behavior varies across territories.
-- High-value customers contribute a disproportionate share of revenue, supporting targeted customer retention initiatives.
-- Regional analysis highlights markets with strong growth potential as well as areas requiring additional attention.
-
----
-
-### Business Recommendations
-
-Based on the analysis, the following actions are recommended:
-
-- Focus marketing and sales efforts on high-growth regions.
-- Increase inventory planning around seasonal sales peaks.
-- Investigate products with consistently high return rates.
-- Strengthen customer retention strategies for high-value customers.
-- Monitor KPI trends regularly to support proactive decision-making.
 
 </details>
