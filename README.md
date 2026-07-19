@@ -305,7 +305,7 @@ Dim_Product_SubCategory
 Dim_Product
         ↓
 Fact_Sales / Fact_Returns
-
+```
 
 
 
