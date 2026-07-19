@@ -101,7 +101,7 @@ The first step of the project was to identify the key stakeholders and understan
 
 >**Outcome:** The dashboard was designed to provide each stakeholder group with relevant KPIs and interactive visualizations, enabling faster and more informed business decisions.
 
-#### Overall business strategy
+#### Overall Business Strategy
 
 AdventureWorks' business strategy focuses on driving sustainable growth through better visibility into sales performance, product performance, customer behavior, and regional trends.
 
