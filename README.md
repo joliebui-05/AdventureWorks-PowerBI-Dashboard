@@ -194,16 +194,73 @@ Together, these metrics provide stakeholders with a comprehensive view of compan
 <details>
 <summary><strong>3. Data Preparation</strong></summary>
 
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `Adventure_Works_Project.pbix` | Complete Power BI report including Power Query transformations, data model, DAX measures, and interactive dashboards. |
-| `Adventure_Works_Project.pdf` | Static export of the dashboard. |
-| `Dataset/` | Source CSV files used in the project. |
-| `Images/` | Dashboard screenshots used throughout the documentation. |
+<details>
+<summary><strong>3. Data Preparation</strong></summary>
 
 <br>
+
+Before building the data model, the AdventureWorks source data was imported, assessed, and transformed to ensure it was accurate, consistent, and suitable for analysis.
+
+### Data Acquisition
+
+The project uses the AdventureWorks dataset provided as multiple CSV files, which were imported into **Power BI Desktop** using **Power Query**.
+
+| Source | Access Method | Storage |
+|---------|---------------|---------|
+| AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
+
+---
+
+### Data Quality Assessment
+
+The source data was reviewed to identify issues that could affect reporting accuracy and model reliability.
+
+**Quality checks performed**
+
+- Reviewed column data types
+- Checked for missing values
+- Validated unique keys
+- Reviewed duplicate records
+- Verified consistency across related tables
+- Confirmed data integrity before modeling
+
+**Known Data Considerations**
+
+| Issue | Resolution |
+|-------|------------|
+| **Customer Name Encoding** | A small number of customer names contain corrupted accented characters in the original dataset. Changing the file encoding to **UTF-8 (65001)** did not resolve the issue, indicating the problem exists in the source data. Since it does not affect relationships, KPI calculations, or business analysis, the original values were retained. |
+| **Date Range Alignment** | Sales transactions begin on **1 Jan 2020**, while stock records begin on **9 Nov 2019**. To ensure complete date coverage across the model, the Date table was created using the earliest available date (**9 Nov 2019**). |
+
+*(Optional: Insert Power Query screenshot here)*
+
+---
+
+### Data Transformation
+
+Power Query was used to prepare the data before modeling.
+
+**Transformations performed**
+
+- Imported and combined source datasets
+- Promoted column headers
+- Assigned appropriate data types
+- Removed unnecessary columns
+- Renamed fields for consistency
+- Prepared dimension tables for modeling
+
+---
+
+### Data Validation
+
+The transformed data was validated before proceeding to data modeling.
+
+**Validation activities**
+
+- Confirmed row counts after transformations
+- Verified relationships between datasets
+- Checked for unexpected null values
+- Reviewed calculated fields
+- Ensured the dataset was ready for reporting
 
 <details>
 <summary><strong>4. Data Modeling</strong></summary>
