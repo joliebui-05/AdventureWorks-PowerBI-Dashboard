@@ -82,8 +82,8 @@ Specifically, this project helps AdventureWorks:
 By transforming raw data into actionable information, this solution enables leadership to make faster, more informed decisions that align with the company's growth objectives.
 
 </details>
-
 <br>
+
 ## 🛠 Project Workflow
 
 <br>
