@@ -53,7 +53,7 @@ Specifically, this project helps AdventureWorks:
 - **Analyze product return trends** to identify products that may require further investigation or improvement.
 - **Establish a single source of truth** that replaces fragmented reporting with consistent, interactive business insights.
 
-By transforming raw transactional data into actionable information, this solution enables leadership to make faster, more informed decisions that align with the company's growth objectives.
+By transforming raw data into actionable information, this solution enables leadership to make faster, more informed decisions that align with the company's growth objectives.
 
 
 
