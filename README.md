@@ -6,6 +6,8 @@ Interactive Power BI dashboard analyzing AdventureWorks sales, products, and cus
 </details>
 🛠 Project Workflow
 
+<br>
+
 <details>
 <summary><strong>1. Business Understanding</strong></summary>
 
