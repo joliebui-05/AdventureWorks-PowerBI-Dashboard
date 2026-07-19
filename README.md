@@ -4,23 +4,7 @@ Interactive Power BI dashboard analyzing AdventureWorks sales, products, and cus
 ---
 
 </details>
-## 🛠 Project Workflow
-
-```text
-Business Understanding
-        ↓
-KPI Planning
-        ↓
-Data Preparation
-        ↓
-Data Modeling
-        ↓
-Dashboard Development
-        ↓
-Business Analysis
-        ↓
-Validation & Future Improvements
-```
+🛠 Project Workflow
 
 <details>
 <summary><strong>1. Business Understanding</strong></summary>
