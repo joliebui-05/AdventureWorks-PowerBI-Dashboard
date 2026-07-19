@@ -252,7 +252,6 @@ The transformed data was validated before proceeding to data modeling.
 - Checked for unexpected null values
 - Reviewed calculated fields
 - Ensured the dataset was ready for reporting
-<details>
     
 <br>
 
