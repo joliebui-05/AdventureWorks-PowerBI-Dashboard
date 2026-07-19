@@ -2,6 +2,7 @@
 Interactive Power BI dashboard analyzing AdventureWorks sales, products, and customer performance.
 
 ![Executive Overview Dashboard](Images/Executive_Overview.png)
+
 ## 📖 Project Overview
 
 This project is an end-to-end business intelligence solution built in Power BI using the AdventureWorks dataset. 
