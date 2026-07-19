@@ -341,20 +341,16 @@ The dashboard was developed with the following design principles:
 - Prioritized key KPIs for quick executive review
 - Maintained a consistent color palette and layout across all pages
 - Used interactive slicers for flexible analysis
-- Applied drill-through and cross-filtering to support detailed exploration
+- Applied cross-filtering to support detailed exploration
 - Minimized visual clutter to improve readability
 
----
-
-### Executive Overview
+#### Executive Overview
 
 The Executive Overview serves as the landing page and provides a high-level summary of business performance through key KPIs, trend analysis, and regional insights.
 
 *The Executive Overview is displayed as the hero image at the top of this README.*
 
----
-
-### Sales Performance
+#### Sales Performance
 
 ![Sales Performance Dashboard](Images/Sales_Performance.png)
 
@@ -368,9 +364,7 @@ The Sales Performance page focuses on revenue trends and sales activity.
 - Sales target monitoring
 - Monthly performance comparison
 
----
-
-### Product Performance
+#### Product Performance
 
 ![Product Performance Dashboard](Images/Product_Performance.png)
 
@@ -383,9 +377,7 @@ The Product Performance page analyzes product sales and returns to identify stro
 - Product category performance
 - Top and bottom performing products
 
----
-
-### Customer Performance
+#### Customer Performance
 
 ![Customer Performance Dashboard](Images/Customer_Performance.png)
 
@@ -398,9 +390,7 @@ The Customer Performance page provides insights into customer purchasing behavio
 - Order frequency
 - Geographic customer distribution
 
----
-
-### Interactive Features
+#### Interactive Features
 
 The dashboard includes several interactive features to enhance user experience:
 
