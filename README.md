@@ -266,10 +266,10 @@ After data preparation, a relational model was designed to support sales, return
 
 The model uses a **hybrid dimensional structure**:
 
-- A star-style design connects the main fact tables to customer, territory, date, and product dimensions.
+- A Start Schema Model connects the main fact tables to customer, territory, date, and product dimensions.
 - The product hierarchy is normalized into separate product, subcategory, and category tables, creating a snowflake structure.
 
-### Model Structure
+#### Model Structure
 
 | Table Group | Purpose |
 |-------------|---------|
@@ -278,11 +278,9 @@ The model uses a **hybrid dimensional structure**:
 | **Dim_Customer** | Provides customer attributes for segmentation and behavioral analysis. |
 | **Dim_Territory** | Supports regional and geographic performance analysis. |
 | **Dim_Date** | Enables consistent time-based analysis across sales and returns. |
-| **Product Hierarchy** | Uses `Dim_Product`, `Dim_Product_SubCategory`, and `Dim_Product_Category` to support detailed product drill-down analysis. |
+| **Product Snowflake** | Uses `Dim_Product`, `Dim_Product_SubCategory`, and `Dim_Product_Category` to support detailed product drill-down analysis. |
 
----
-
-### Relationship Design
+#### Relationship Design
 
 The model primarily uses one-to-many relationships with single-direction filtering.
 
@@ -296,9 +294,7 @@ The model primarily uses one-to-many relationships with single-direction filteri
 - Normalized the product hierarchy into category, subcategory, and product levels
 - Avoided unnecessary many-to-many relationships
 
----
-
-### Product Snowflake Structure
+#### Product Snowflake Structure
 
 The product dimension was separated into three levels:
 
@@ -313,10 +309,5 @@ Fact_Sales / Fact_Returns
 
 </details>
 
-<br>
 
-<details>
-<summary><strong>5. Next Step</strong></summary>
-
-</details>
 
