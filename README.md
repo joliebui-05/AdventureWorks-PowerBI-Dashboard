@@ -328,68 +328,87 @@ Fact_Sales / Fact_Returns
 <br>
 
 <details>
-<summary><strong>3. Data Preparation</strong></summary>
+<summary><strong>5. Dashboard Development</strong></summary>
 
 <br>
 
-Before building the data model, the AdventureWorks source data was imported, assessed, and transformed to ensure it was accurate, consistent, and suitable for analysis.
+The dashboard was designed to provide stakeholders with a clear and interactive view of business performance. Each report page focuses on a specific business area while maintaining a consistent layout, navigation, and visual style.
 
-#### Data Acquisition
+### Dashboard Design Principles
 
-The project uses the AdventureWorks dataset provided as multiple CSV files, which were imported into **Power BI Desktop** using **Power Query**.
+The dashboard was developed with the following design principles:
 
-| Source | Access Method | Storage |
-|---------|---------------|---------|
-| AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
+- Prioritized key KPIs for quick executive review
+- Maintained a consistent color palette and layout across all pages
+- Used interactive slicers for flexible analysis
+- Applied drill-through and cross-filtering to support detailed exploration
+- Minimized visual clutter to improve readability
 
-#### Data Quality Assessment
+---
 
-The source data was reviewed to identify issues that could affect reporting accuracy and model reliability.
+### Executive Overview
 
-**Quality checks performed**
+The Executive Overview serves as the landing page and provides a high-level summary of business performance through key KPIs, trend analysis, and regional insights.
 
-- Reviewed column data types
-- Checked for missing values
-- Validated unique keys
-- Reviewed duplicate records
-- Verified consistency across related tables
-- Confirmed data integrity before modeling
+*The Executive Overview is displayed as the hero image at the top of this README.*
 
-**Known Data Considerations**
+---
 
-| Issue | Resolution |
-|-------|------------|
-| **Customer Name Encoding** | A small number of customer names contain corrupted accented characters in the original dataset. Changing the file encoding to **UTF-8 (65001)** did not resolve the issue, indicating the problem exists in the source data. Since it does not affect relationships, KPI calculations, or business analysis, the original values were retained. |
-| **Date Range Alignment** | Order_Date from Sales Data begins on **Jan 01 2020**, while Stock_Date begins on **Sep 11 2019**. To ensure complete date coverage across the model, the Date table was created using the earliest available date (**Sep 11 2019**). |
+### Sales Performance
 
-[📷 View Customer Name Issue Screenshot](Images/Issue_Unicode%20(UTF-8).webp)
+![Sales Performance Dashboard](Images/Sales_Performance.png)
 
-#### Data Transformation
+The Sales Performance page focuses on revenue trends and sales activity.
 
-Power Query was used to prepare the data before modeling.
+**Highlights**
 
-**Transformations performed**
+- Revenue trend over time
+- Sales by region
+- Top-performing products
+- Sales target monitoring
+- Monthly performance comparison
 
-- Imported and combined source datasets
-- Promoted column headers
-- Assigned appropriate data types
-- Removed unnecessary columns
-- Renamed fields for consistency
-- Prepared dimension tables for modeling
+---
 
-#### Data Validation
+### Product Performance
 
-The transformed data was validated before proceeding to data modeling.
+![Product Performance Dashboard](Images/Product_Performance.png)
 
-**Validation activities**
+The Product Performance page analyzes product sales and returns to identify strong and weak performers.
 
-- Confirmed row counts after transformations
-- Verified relationships between datasets
-- Checked for unexpected null values
-- Reviewed calculated fields
-- Ensured the dataset was ready for reporting
+**Highlights**
+
+- Product revenue ranking
+- Return rate analysis
+- Product category performance
+- Top and bottom performing products
+
+---
+
+### Customer Performance
+
+![Customer Performance Dashboard](Images/Customer_Performance.png)
+
+The Customer Performance page provides insights into customer purchasing behavior and segmentation.
+
+**Highlights**
+
+- Customer revenue contribution
+- Customer segmentation
+- Order frequency
+- Geographic customer distribution
+
+---
+
+### Interactive Features
+
+The dashboard includes several interactive features to enhance user experience:
+
+- Dynamic slicers
+- Cross-filtering between visuals
+- Drill-through analysis
+- Interactive tooltips
+- KPI cards with conditional formatting
 
 </details>
-
-<br>
 
