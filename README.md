@@ -198,11 +198,75 @@ Together, these metrics provide stakeholders with a comprehensive view of compan
 
 <br>
 
-- Revenue
-- Profit
-- Profit Margin
-- Total Orders
-- Average Order Value
+<details>
+<summary><strong>3. Data Preparation</strong></summary>
+
+<br>
+
+Before building the data model and dashboards, the source data was reviewed, cleaned, and transformed to ensure it was suitable for analysis.
+
+### Data Acquisition
+
+The project uses the AdventureWorks dataset provided as multiple CSV files.
+
+| Source | Access Method | Storage |
+|---------|---------------|---------|
+| AdventureWorks CSV Files | Power BI Desktop (Power Query) | Local Project Folder |
+
+---
+
+### Data Quality Assessment
+
+The source data was reviewed to identify issues that could impact reporting accuracy.
+
+**Quality checks performed**
+
+- Reviewed column data types
+- Checked for missing values
+- Validated unique keys
+- Reviewed duplicate records
+- Verified relationships between datasets
+- Inspected data consistency across tables
+
+#### Known Data Quality Issue
+
+The Customer dataset contains a small number of corrupted characters (missing accented characters) in customer names.
+
+Since the issue originates from the source files and does not affect KPI calculations, relationships, or business analysis, the original values were retained.
+
+> Attempted solution: Changed the file encoding to **UTF-8 (65001)**, but the issue persisted, indicating the problem exists in the original dataset.
+
+*(Insert your Power Query screenshot here)*
+
+---
+
+### Data Transformation (ETL)
+
+Power Query was used to prepare the data before modeling.
+
+Transformations included:
+
+- Imported CSV files into Power BI
+- Promoted column headers
+- Assigned appropriate data types
+- Removed unnecessary columns
+- Renamed columns for consistency
+- Created calculated columns where required
+- Prepared lookup tables for data modeling
+
+---
+
+### Data Validation
+
+Before proceeding to data modeling, the transformed data was validated by:
+
+- Confirming row counts after transformations
+- Verifying key relationships
+- Checking for unexpected null values
+- Reviewing calculated fields
+- Ensuring data was ready for reporting
+
+</details>
 
 </details>
 
