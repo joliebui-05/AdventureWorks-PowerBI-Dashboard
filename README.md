@@ -189,44 +189,19 @@ Together, these metrics provide stakeholders with a comprehensive view of compan
 
 </details>
 
-</details>
-
 <br>
 
 <details>
 <summary><strong>3. Data Preparation</strong></summary>
 
-<br>
+## 📁 Repository Contents
 
-<details>
-<summary><strong>3. Data Preparation</strong></summary>
-
-<br>
-
-### Known Data Considerations
-
-During data preparation, two dataset characteristics were identified that influenced the report design.
-
-#### 1. Customer Name Encoding
-
-A small number of customer names contain corrupted accented characters in the source files. The issue originates from the original dataset rather than the ETL process.
-
-An attempt was made to resolve the issue by changing the file encoding to **UTF-8 (65001)**; however, the problem persisted. Since the affected values do not impact relationships, KPI calculations, or business analysis, the original data was retained.
-
----
-
-#### 2. Date Range Alignment
-
-The **Fact Sales** table begins on **1 January 2020**, while the **Stock Date** field contains records starting from **9 November 2019**.
-
-To ensure all business events were represented correctly, the Date table was designed to begin on **9 November 2019** rather than the first sales transaction date.
-
-This approach ensures:
-
-- Complete date coverage across all fact tables.
-- Accurate relationships between the Date table and transactional data.
-- Support for future analysis involving inventory and stock movements.
-</details>
+| File | Description |
+|------|-------------|
+| `Adventure_Works_Project.pbix` | Complete Power BI report including Power Query transformations, data model, DAX measures, and interactive dashboards. |
+| `Adventure_Works_Project.pdf` | Static export of the dashboard. |
+| `Dataset/` | Source CSV files used in the project. |
+| `Images/` | Dashboard screenshots used throughout the documentation. |
 
 <br>
 
