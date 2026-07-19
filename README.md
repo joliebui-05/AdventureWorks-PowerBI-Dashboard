@@ -23,19 +23,24 @@ The company collects sales data, customer information, product details, and retu
 
 </details>
 
-**1. Business Context**
+<br>
 
-AdventureWorks Cycles is a fictional multinational bicycle manufacturer and retailer that sells bicycles, cycling accessories, and apparel across North America, Europe, and the Pacific region.
+<details>
+<summary><strong>2. Business Context</strong></summary>
 
-The company collects sales data, customer information, product details, and return records. As the business grows, management needs a more effective way to monitor performance and make strategic decisions.
+<br>
 
-**2. Business Context**
-    
 AdventureWorks has experienced steady business growth over recent years. However, business data is stored across multiple operational datasets, making it difficult for decision-makers to obtain a clear and consistent view of company performance.
     
 Different departments often answer business questions manually using spreadsheets or isolated reports, resulting in slower decision-making and limited visibility into overall business performance.
     
 To support future growth, AdventureWorks wants to build a centralized Business Intelligence solution that provides executives and business managers with interactive reporting and actionable insights.
+
+</details>
+
+**2. Business Context**
+    
+
 
 **3. Business Problem**
     
