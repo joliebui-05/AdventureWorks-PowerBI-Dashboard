@@ -92,7 +92,7 @@ Provide executives with a centralized dashboard that supports faster, data-drive
 The first step of the project was to identify the key stakeholders and understand how the dashboard would support their business decisions. This helped ensure the reporting solution addressed both strategic and operational requirements.
 
 | Stakeholder | Business Need | Decisions Supported |
-|--------------|---------------|---------------------|
+|------------------------|---------------|---------------------|
 | **Executive Leadership** | Monitor overall business performance and strategic KPIs | Strategic planning, business growth, and investment priorities |
 | **Sales Managers** | Track sales performance across products, regions, and time | Sales target setting, product focus, and promotional planning |
 | **Product Managers** | Evaluate product performance and return trends | Pricing strategy, product improvements, and inventory planning |
