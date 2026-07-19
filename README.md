@@ -227,7 +227,7 @@ The source data was reviewed to identify issues that could affect reporting accu
 | **Date Range Alignment** | Order_Date from Sales Data begins on **Jan 01 2020**, while Stock_Date begins on **Sep 11 2019**. To ensure complete date coverage across the model, the Date table was created using the earliest available date (**Sep 11 2019**). |
 
 *(Optional: Insert Power Query screenshot here)*
-
+Images/Issue_Unicode (UTF-8).webp
 #### Data Transformation
 
 Power Query was used to prepare the data before modeling.
