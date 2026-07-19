@@ -281,10 +281,6 @@ The model uses a **hybrid dimensional structure**:
 
 #### Relationship Design
 
-The model primarily uses one-to-many relationships with single-direction filtering.
-
-#### Relationship Design
-
 The model primarily uses one-to-many relationships with single-direction filtering to ensure efficient data propagation and minimize ambiguity.
 
 **Design principles**
