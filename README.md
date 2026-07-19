@@ -323,10 +323,10 @@ Fact_Sales / Fact_Returns
 
 *Figure: Hybrid dimensional model consisting of two fact tables, shared dimensions, and a snowflaked product hierarchy.*
 
+<br>
+
 <details>
 <summary><strong>1. Company Overview</strong></summary>
-
-<br>
 
 AdventureWorks Cycles is a fictional multinational bicycle manufacturer and retailer that sells bicycles, cycling accessories, and apparel across North America, Europe, and the Pacific region.
 
