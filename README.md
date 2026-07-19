@@ -97,6 +97,8 @@ By transforming raw data into actionable information, this solution enables lead
 
 </details>
 
+<br>
+
 <details>
 <summary><strong>2. KPI Planning</strong></summary>
 
