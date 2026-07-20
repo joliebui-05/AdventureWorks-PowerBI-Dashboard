@@ -475,7 +475,7 @@ The Product Performance dashboard evaluates product sales, profitability, and re
 
 - Revenue, profit, and orders continued to grow while the overall **return rate remained low (2.17%)**, indicating strong overall product performance.
 - **Road Bikes** generated **45.3% of total revenue**, highlighting a strong product line but also creating a dependency on a single subcategory.
-- **Road Bikes** and **Mountain Bikes** delivered the highest revenue while maintaining relatively low return rates, making them the strongest-performing products.
+- Road Bikes remained the primary revenue driver, contributing 45.3% of total revenue while maintaining a relatively low return rate. In 2022, Mountain Bikes emerged as the top-performing subcategory, indicating a shift in customer demand and a more balanced product portfolio.
 - **Australia** and **Southwest** generated the highest product revenue while maintaining relatively moderate return rates, demonstrating strong regional product performance.
 - **France** and **Canada** recorded comparatively higher return rates despite lower revenue, making them priority regions for further investigation.
 - **Shorts** recorded the highest return rate among all subcategories, warranting further investigation into product quality, sizing, or customer expectations.
