@@ -320,12 +320,20 @@ Dim_Product
         ↓
 Fact_Sales / Fact_Returns
 ```
-
 #### Data Model Diagram
 
 ![AdventureWorks Data Model](Images/Data_Model.png)
 
 *Figure: Hybrid dimensional model consisting of two fact tables, shared dimensions, and a snowflaked product hierarchy.*
+
+#### DAX Measures
+
+The dashboard includes a collection of reusable DAX measures for KPI calculations, time intelligence, profitability analysis, and customer metrics.
+
+A complete reference of all measures is available here:
+
+📄 **DAX Measures Documentation**
+
 
 </details>
 
