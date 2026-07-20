@@ -5,16 +5,7 @@ Interactive Power BI dashboard analyzing AdventureWorks sales, products, and cus
 
 ## 🚀 Live Dashboard
 
-<h2>🚀 Live Dashboard</h2>
-
-<p align="center">
-  <a href="<iframe title="Adventure_Works_Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9" frameborder="0" allowFullScreen="true"></iframe>">
-    <img
-      src="https://img.shields.io/badge/View%20Live%20Power%20BI%20Dashboard-0078D4?style=for-the-badge&logo=powerbi&logoColor=white"
-      alt="View Live Power BI Dashboard"
-    >
-  </a>
-</p>
+👉 **[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9)**
 
 ## 📖 Project Overview
 
