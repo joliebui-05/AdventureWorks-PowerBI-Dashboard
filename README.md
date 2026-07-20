@@ -465,9 +465,7 @@ Although this strategy successfully increased revenue, the declining AOV may ind
 - Develop cross-selling and upselling initiatives to increase the average spend per transaction while maintaining strong order growth.
 - Use Australia's successful sales performance as a benchmark to identify best practices that can be adapted for lower-performing regions, particularly markets with high AOV but lower order volume such as the UK.
 
-</details>
-
-### 6.3 Product Performance
+### Product Performance
 
 The Product Performance dashboard evaluates product sales, profitability, and return trends to identify high-performing product categories and opportunities to improve product quality and customer satisfaction.
 
