@@ -522,5 +522,5 @@ The Product Performance dashboard evaluates product sales, profitability, and re
 - Continue investing in **Australia** and **Southwest** while using their successful product mix and sales strategies as benchmarks for other regions.
 - Reduce dependency on **Road Bikes** by expanding sales of other product categories such as Accessories and Clothing.
 - Prioritize investigations in **France** and **Canada** to identify the underlying causes of higher product return rates.
-- Review high-return products—particularly **Shorts**—to assess potential issues related to product quality, sizing, product descriptions, or customer expectations.
+- Review sizing, product quality, product descriptions, and customer feedback for **Shorts, Helmets, Bike Stands**, and other frequently returned products.
 - Monitor both **return rate** and **return quantity** when evaluating product performance to prioritize improvement initiatives with the greatest financial impact.
