@@ -524,3 +524,34 @@ The Product Performance dashboard evaluates product sales, profitability, and re
 - Prioritize investigations in **France** and **Canada** to identify the underlying causes of higher product return rates.
 - Review sizing, product quality, product descriptions, and customer feedback for **Shorts, Helmets, Bike Stands**, and other frequently returned products.
 - Monitor both **return rate** and **return quantity** when evaluating product performance to prioritize improvement initiatives with the greatest financial impact.
+---
+### Customer Performance
+
+The Customer Performance dashboard analyzes customer growth, purchasing behavior, customer value, and regional distribution to identify opportunities for customer acquisition and retention.
+
+#### Key Findings
+
+- Customer growth accelerated after **mid-2021**, while **Revenue per Customer** declined before stabilizing, indicating that newly acquired customers generated lower average revenue.
+- **Average-income customers** represent the largest customer segment, making them the primary driver of overall order volume.
+- **Australia** remains the highest revenue-generating region (**$7.4M**), followed by the **Southwest** and **Northwest**, demonstrating strong regional customer performance.
+- A relatively small group of **high-value customers** contributes a significant share of total revenue, highlighting the importance of customer retention and personalized engagement.
+
+#### Deeper Analysis
+
+##### Customer Growth & Customer Value
+
+Customer acquisition accelerated significantly after mid-2021, expanding the overall customer base. However, this growth was accompanied by a decline in **Revenue per Customer**, suggesting that business growth was increasingly driven by acquiring more customers rather than increasing the value of each customer. While Revenue per Customer stabilized over time, improving customer lifetime value remains an opportunity for future growth.
+
+##### Customer Segmentation & Regional Performance
+
+Customer demographics vary across regions. **North America** and the **Pacific** are primarily composed of **average-income customers**, whereas **Europe** has a larger concentration of **low-income customers**, indicating different customer profiles and purchasing behaviors across markets.
+
+At the regional level, **Australia** generated the highest customer revenue, followed by the **Southwest** and **Northwest**, while a relatively small number of high-value customers contributed a disproportionate share of total revenue. These findings highlight the importance of both regional targeting and customer retention strategies.
+
+#### Strategic Recommendations
+
+- Develop retention and loyalty programs targeting high-value customers to maximize customer lifetime value.
+- Increase Revenue per Customer through cross-selling, upselling, and personalized product recommendations.
+- Tailor marketing campaigns to regional customer demographics rather than applying a single global strategy.
+- Continue investing in high-performing regions such as **Australia**, while identifying opportunities to expand customer growth in other markets.
+- Monitor customer acquisition alongside Revenue per Customer to ensure business growth remains both scalable and profitable.
