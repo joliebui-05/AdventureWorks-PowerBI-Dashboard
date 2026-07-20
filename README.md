@@ -332,7 +332,7 @@ The dashboard includes a collection of reusable DAX measures for KPI calculation
 
 A complete reference of all measures is available here:
 
-📄 **DAX Measures Documentation**
+📄 **DAX Measures Documentation** - [View PDF](Docs/Adventure_Work_PowerBI_DAX_Documentation.pdf)
 
 
 </details>
