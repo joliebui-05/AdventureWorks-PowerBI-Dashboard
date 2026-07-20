@@ -9,7 +9,7 @@ Interactive Power BI dashboard analyzing AdventureWorks sales, products, and cus
 
 ## 📖 Project Overview
 
-This project is an end-to-end business intelligence solution built in Power BI using the AdventureWorks dataset. 
+This project is an end-to-end business intelligence solution built in Power BI using the AdventureWorks dataset from **Data Soursce: Maven Analytics**. 
 It transforms sales data into interactive dashboards that help monitor sales performance, product trends, and customer behavior. 
 The report combines data modeling, DAX calculations, and data visualization to support business decision-making.
 
