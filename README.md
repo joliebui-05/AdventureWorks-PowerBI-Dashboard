@@ -4,7 +4,19 @@ Interactive Power BI dashboard analyzing AdventureWorks sales, products, and cus
 ![Executive Overview Dashboard](Images/Executive_Overview.png)
 
 ## 🚀 Live Dashboard
-👉 **[Click here to view the interactive Power BI Dashboard](<iframe title="Adventure_Works_Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9" frameborder="0" allowFullScreen="true"></iframe>)**
+
+<p align="center">
+  <a href=<iframe title="Adventure_Works_Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9" frameborder="0" allowFullScreen="true"></iframe>>
+    <img
+      src="https://img.shields.io/badge/🚀%20Click%20Here%20to%20View%20the%20Interactive%20Dashboard-0078D4?style=for-the-badge"
+      alt="Open Interactive Power BI Dashboard"
+    >
+  </a>
+</p>
+
+<p align="center">
+  Explore sales, product, and customer performance in the interactive Power BI report.
+</p>
 
 ## 📖 Project Overview
 
