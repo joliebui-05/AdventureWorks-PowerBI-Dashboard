@@ -350,9 +350,11 @@ The dashboard was developed with the following design principles:
 
 #### Executive Overview
 
+![Executive Overview Dashboard](Images/Executive_Overview.png)
+
 The Executive Overview serves as the landing page and provides a high-level summary of business performance through key KPIs, trend analysis, and regional insights.
 
-![Executive Overview Dashboard](Images/Executive_Overview.png)
+##### Highlights
 
 - Revenue, Profit and Orders and Profit Margin 
 - Sales by continent
