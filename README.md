@@ -507,6 +507,16 @@ The Product Performance dashboard evaluates product sales, profitability, and re
 
 - **Business implication**: Improving product performance in France could significantly reduce return-related costs and improve regional profitability.
 
+##### Canada – Product Optimization Opportunity
+
+- Canada generates lower revenue than Australia and Southwest while maintaining a return rate above several comparable regions.
+
+- Unlike France, Canada's challenge appears to be concentrated within specific products rather than across the entire market. **Shorts** recorded the highest return rate among all product subcategories, while **Helmets, Jerseys, and Bike Stands** also experienced relatively frequent returns despite their limited revenue contribution.
+
+- This suggests that customer dissatisfaction may be concentrated in niche product categories rather than the company's primary revenue drivers.
+
+- **Business implication**: Targeted improvements to high-return products could reduce operational costs without affecting overall sales performance.
+
 #### Strategic Recommendations
 
 - Continue investing in **Australia** and **Southwest** while using their successful product mix and sales strategies as benchmarks for other regions.
