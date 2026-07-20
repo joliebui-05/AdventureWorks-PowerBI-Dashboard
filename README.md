@@ -1,16 +1,6 @@
 # AdventureWorks-PowerBI-Dashboard
 Interactive Power BI dashboard analyzing AdventureWorks sales, products, and customer performance.
 
-<iframe
-src="<iframe title="Adventure_Works_Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9" frameborder="0" allowFullScreen="true"></iframe>"
-allowfullscreen>
-</iframe>
-
-</div>
-
-</body>
-</html>
-
 ![Executive Overview Dashboard](Images/Executive_Overview.png)
 
 ## 📖 Project Overview
