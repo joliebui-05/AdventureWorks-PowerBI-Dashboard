@@ -542,11 +542,9 @@ The Customer Performance dashboard analyzes customer growth, purchasing behavior
 
 Customer acquisition accelerated significantly after mid-2021, expanding the overall customer base. However, this growth was accompanied by a decline in **Revenue per Customer**, suggesting that business growth was increasingly driven by acquiring more customers rather than increasing the value of each customer. While Revenue per Customer stabilized over time, improving customer lifetime value remains an opportunity for future growth.
 
-##### Customer Segmentation & Regional Performance
+##### Customer Segmentation
 
 Customer demographics vary across regions. **North America** and the **Pacific** are primarily composed of **average-income customers**, whereas **Europe** has a larger concentration of **low-income customers**, indicating different customer profiles and purchasing behaviors across markets.
-
-At the regional level, **Australia** generated the highest customer revenue, followed by the **Southwest** and **Northwest**, while a relatively small number of high-value customers contributed a disproportionate share of total revenue. These findings highlight the importance of both regional targeting and customer retention strategies.
 
 #### Strategic Recommendations
 
