@@ -481,9 +481,21 @@ The Product Performance dashboard evaluates product sales, profitability, and re
 
 ##### High-Revenue Markets
 
-**Australia** and **Southwest** are the strongest-performing regions, generating the highest product revenue while maintaining relatively low return rates. This suggests that sales growth in these markets has been achieved without a proportional increase in product returns, indicating healthy product performance and effective customer satisfaction.
+##### Australia – Largest Revenue Contributor
 
-Within these regions, **Road Bikes** and **Mountain Bikes** remain the primary revenue drivers, making them the foundation of overall business growth. Although some lower-revenue products exhibit higher return rates, their impact on total regional performance remains limited.
+- Australia is the company's **highest-performing market**, generating approximately **$7.4M** in revenue while maintaining a relatively low return rate compared with its sales volume. This indicates that strong sales performance has not come at the expense of product quality or customer satisfaction.
+
+- Product sales are primarily driven by **Road Bikes**, supported by Mountain Bikes, making these subcategories the foundation of regional growth. Although products such as **Touring Bikes** and **Helmets** exhibit higher return rates relative to their revenue, their overall financial impact remains limited.
+
+- **Business implication**: Australia represents the benchmark market for sustainable growth, where high sales and controlled returns coexist.
+
+#### Southwest – Balanced Growth Market
+
+- Southwest is the **second-largest revenue-generating region**, producing approximately **$4.8M** in revenue while maintaining one of the lowest return rates among major markets.
+
+- Revenue is distributed across both **Road Bikes and Mountain Bikes**, indicating a more balanced product mix than Australia and reducing dependence on a single subcategory. While **Touring Bikes and Helmets** experience relatively higher return rates, they account for only a small share of regional revenue.
+
+- **Business implication**: Southwest demonstrates scalable growth with efficient product performance and provides a strong model for expansion into similar markets.
 
 ##### High-Return Markets
 
