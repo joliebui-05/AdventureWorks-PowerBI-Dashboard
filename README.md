@@ -489,7 +489,7 @@ The Product Performance dashboard evaluates product sales, profitability, and re
 
 - **Business implication**: Australia represents the benchmark market for sustainable growth, where high sales and controlled returns coexist.
 
-#### Southwest – Balanced Growth Market
+##### Southwest – Balanced Growth Market
 
 - Southwest is the **second-largest revenue-generating region**, producing approximately **$4.8M** in revenue while maintaining one of the lowest return rates among major markets.
 
@@ -499,9 +499,13 @@ The Product Performance dashboard evaluates product sales, profitability, and re
 
 ##### High-Return Markets
 
-In contrast, **France** and **Canada** generate comparatively lower revenue but experience relatively higher return rates. While these regions contribute less to overall sales, elevated returns may increase operational costs and reduce profitability.
+##### France – Highest Regional Return Risk
 
-At the product level, **Shorts** recorded the highest return rate, while several lower-revenue products also experienced frequent returns. These findings suggest that return performance should be evaluated alongside revenue contribution to identify products with the greatest business impact.
+- Although France contributes only moderate revenue, it records the **highest regional return rate (approximately 2.4%)**, making it the region with the greatest return-related risk.
+
+- Most revenue is generated from **Road Bikes and Mountain Bikes**. However **Touring Bikes** combine meaningful revenue with elevated return rates. In addition, lower-volume products such as **Bike Stands** exhibit particularly high return rates, suggesting potential issues with product quality, customer expectations, or fulfillment.
+
+- **Business implication**: Improving product performance in France could significantly reduce return-related costs and improve regional profitability.
 
 #### Strategic Recommendations
 
