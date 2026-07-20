@@ -466,3 +466,38 @@ Although this strategy successfully increased revenue, the declining AOV may ind
 - Use Australia's successful sales performance as a benchmark to identify best practices that can be adapted for lower-performing regions, particularly markets with high AOV but lower order volume such as the UK.
 
 </details>
+
+### 6.3 Product Performance
+
+The Product Performance dashboard evaluates product sales, profitability, and return trends to identify high-performing product categories and opportunities to improve product quality and customer satisfaction.
+
+#### Key Findings
+
+- Revenue, profit, and orders continued to grow while the overall **return rate remained low (2.17%)**, indicating strong overall product performance.
+- **Road Bikes** generated **45.3% of total revenue**, highlighting a strong product line but also creating a dependency on a single subcategory.
+- **Road Bikes** and **Mountain Bikes** delivered the highest revenue while maintaining relatively low return rates, making them the strongest-performing products.
+- **Australia** and **Southwest** generated the highest product revenue while maintaining relatively moderate return rates, demonstrating strong regional product performance.
+- **France** and **Canada** recorded comparatively higher return rates despite lower revenue, making them priority regions for further investigation.
+- **Shorts** recorded the highest return rate among all subcategories, warranting further investigation into product quality, sizing, or customer expectations.
+
+#### Deeper Analysis
+
+##### High-Revenue Markets
+
+**Australia** and **Southwest** are the strongest-performing regions, generating the highest product revenue while maintaining relatively low return rates. This suggests that sales growth in these markets has been achieved without a proportional increase in product returns, indicating healthy product performance and effective customer satisfaction.
+
+Within these regions, **Road Bikes** and **Mountain Bikes** remain the primary revenue drivers, making them the foundation of overall business growth. Although some lower-revenue products exhibit higher return rates, their impact on total regional performance remains limited.
+
+##### High-Return Markets
+
+In contrast, **France** and **Canada** generate comparatively lower revenue but experience relatively higher return rates. While these regions contribute less to overall sales, elevated returns may increase operational costs and reduce profitability.
+
+At the product level, **Shorts** recorded the highest return rate, while several lower-revenue products also experienced frequent returns. These findings suggest that return performance should be evaluated alongside revenue contribution to identify products with the greatest business impact.
+
+#### Strategic Recommendations
+
+- Continue investing in **Australia** and **Southwest** while using their successful product mix and sales strategies as benchmarks for other regions.
+- Reduce dependency on **Road Bikes** by expanding sales of other product categories such as Accessories and Clothing.
+- Prioritize investigations in **France** and **Canada** to identify the underlying causes of higher product return rates.
+- Review high-return products—particularly **Shorts**—to assess potential issues related to product quality, sizing, product descriptions, or customer expectations.
+- Monitor both **return rate** and **return quantity** when evaluating product performance to prioritize improvement initiatives with the greatest financial impact.
